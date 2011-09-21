@@ -12,8 +12,3 @@ Warning
 -------
 
 The current status of this repository is very unstable and the committed code is likely to be part of testing, so don't take it too seriously ;)
-
-Known Bugs
-----------
-
-Some of the Ethernet pins need to be patched since they wired wrongly. This is likely to be fixed when I order a proper PCB, someday.
