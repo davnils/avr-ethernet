@@ -7,7 +7,7 @@ Overview
 This is a pretty old project with a basic PCB consisting of an atmega168, enc28j60, voltage regulator and the physical connectors.
 I've successfully used to board to transmit basic Ethernet packets.
 
-![Photo of PCB](images/photo_pcb.jpg)
+<img src="https://github.com/davnils/avr-ethernet/raw/master/images/photo_pcb.jpg" />
 
 Warning
 -------
